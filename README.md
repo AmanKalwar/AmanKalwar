@@ -1,6 +1,6 @@
 ### Hi, I am Aman Kalwar. 👋
 
-## I'm a Developer, SEO Expert and Content Writer!
+## I'm a Developer, Content Writer and a Machine Learning enthusiast!
 
 - 🔭 I’m currently working on a Django project!
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Testing
