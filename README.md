@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a Django project!
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Testing
 - 👯 I’m looking to collaborate on creating websites and ML projects!
-- 🤔 I’m looking for ooprtunities to join as an intern in Machine Learning fields.
+- 🤔 I’m looking for opportunities to join as an intern in Machine Learning fields.
 - 💬 Ask me about Python, FullStack Development, SEO and buliding cool apps
 - 📫 ***How to reach me***: You can contact me directly on this mail [amankalwar606@gmail.com](mailto:amankalwar606@gmail.com).
 - 😄 Pronouns: he/him
